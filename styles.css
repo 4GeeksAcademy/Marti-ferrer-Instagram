@@ -1,0 +1,21 @@
+.post{
+    background: rgb(172, 172, 172);
+    width: 30rem;
+    
+}
+
+.titulo{
+    justify-content: center;
+    display: flex;
+    background: rgb(241, 241, 241);
+   
+}
+
+h1{
+    margin: 0;
+}
+
+.content{
+    background: grey;
+    
+}
